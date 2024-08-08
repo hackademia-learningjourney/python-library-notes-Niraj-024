@@ -1,0 +1,51 @@
+Short notes on some of the python libraries
+
+Pandas:-
+Pandas is one of the most powerful and flexible data manipulation and analysis
+libraries in Python. The Pandas library can be of great use to work with tabular
+data and informations. DataFrames and series are some datastructures provided by 
+Pandas which further help in handling structured data, time series analysis, merging 
+and data filtering. The key use of Pandas are data filtering, preproccesing, and 
+exploration in data science and machine learning.
+
+NumPy
+NumPy is a vital library in python for numerical calculations, and supporting 
+multi dimensional arrays. This library serves as a base for other libraries like
+Pandas, Tensorflow, Sklearn etc . NumPy can be integrated with various other languages
+which makes our tasks easier and more powerful for performance optimization.
+It is required in Python to perform fast and efficient array ooperations which 
+are the core part of data processing and analysis.
+
+TensorFlow
+TensorFlow is an open-source machine learning framework developed by Google.
+It is widely used for building and training machine learning models,especially
+deep neural networks. Tools like TensorBoard for visualization, EagerExecution for
+dynamic graphs and other tools support in enhancing the overall development process
+in Python.TensorFlow supports a wide range of ML tasks like natural language 
+processing, image recognition etc which can be used to deploy various machine 
+learning models in scalable environments.
+
+Keras
+Keras is integrated with TensorFlow and provides advanced API for developing 
+neural links in Python. Using Keras, we can rapidly build the deep learning model
+prototypes. Keras include different pre-trained models which can be customised
+for boosting the overall development processes. Keras is accessible to new learners
+and simplifies the creation and testing of deep learning models, and smoothening the
+change from research to production.
+
+Sklearn
+The SKlearn or Scikit-learn is one of the most popular libraries for classical 
+machine learning which provides simple and efficient tools for data mining and data 
+and data analysis. The Sklearn provides various supervised and unsupervised 
+algorithms like linear regression, decision trees, clustering etc, data preprocessing
+tools, tools for model selection and pipelines which can be widely used in developing
+machine learning modules, feature engineering and evaluation.
+
+PyTorch
+PyTorch is a open-source deep learning framework developed by Facebook's AI research
+lab. It is known widely for its dynamic computation graph, whhich allows models to 
+be built and modified on the fly during execution. PyTorch includes autograd which
+is used for auto-differentiation and can be used to simplify process of computing 
+gradients during training. PyTorch maintains the balance of flexibility, accessibility,
+ease of use, performance optimization etc for developing deep learning models and 
+research purposes.
